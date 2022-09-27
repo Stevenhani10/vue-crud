@@ -1,0 +1,50 @@
+{
+    
+    "contacts":[
+        {
+            "id":"fhiuwefw",
+            "name":"steven",
+            "company":"msa",
+            "email":"steven@gmail.com",
+            "title":"student",
+            "mobile":"01206507606",
+            "photo":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQtJAW11U8mBckhFSpg5d1SnQWgN62gbDgCs_FyCzkX7JthbcxJ6Ko-XKnkWru507_2NFA&usqp=CAU",
+            "groupId":"1"
+        },
+        {
+            "id":"fhiuwefw",
+            "name":"marco",
+            "company":"msa",
+            "email":"marco@gmail.com",
+            "title":"student",
+            "mobile":"01204854507606",
+            "photo":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQtJAW11U8mBckhFSpg5d1SnQWgN62gbDgCs_FyCzkX7JthbcxJ6Ko-XKnkWru507_2NFA&usqp=CAU",
+            "groupId":"2",
+        },
+        {
+            "id":"fhiuwefw",
+            "name":"david",
+            "company":"msa",
+            "email":"david@gmail.com",
+            "title":"student",
+            "mobile":"012064507606",
+            "photo":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQtJAW11U8mBckhFSpg5d1SnQWgN62gbDgCs_FyCzkX7JthbcxJ6Ko-XKnkWru507_2NFA&usqp=CAU",
+            "groupId":"3",
+        }
+    ],
+    "groups":[
+        {
+            "id":"1",
+            "name":"friend",
+        },
+        {
+            "id":"2",
+            "name":"brother",
+        },
+        {
+            "id":"3",
+            "name":"colleage", 
+        }
+    ],
+
+}
